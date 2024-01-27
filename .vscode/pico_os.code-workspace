@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../AppData/Local/Arduino15/packages/rp2040/hardware/rp2040/3.6.0"
+		},
+		{
+			"name": "pico_os",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
